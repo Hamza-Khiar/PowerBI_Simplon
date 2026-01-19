@@ -1,0 +1,27 @@
+- Expliquez pourquoi il est préférable de conserver deux tables séparées.
+
+=> pour une visualisation claire, il faut respecter la normalization et aussi les donnés doivent être séparé
+
+ 
+
+_______________________________________________________________________________
+
+# Questions d’analyse (sans DAX)
+
+1. Quel responsable de compte est le plus performant ?
+=> le responsable de compte le plus performant est Hachette car il est le vendeur avec la plus grande quantité, ce qui ne disturbe pas le business (low margin & high volume)
+
+2. Est-ce le même responsable selon la métrique utilisée ?
+=> pas nécessaire, selon le but de l'entreprise si elle vise de vendre le plus grand qté ou bien générer le plus grand benefice
+
+3. Quel produit est le plus vendu ?
+=> Le produit le plus vendue est Paseo réalisant un montant de 35611168 (27.84%)
+
+4. Quel type de client passe le plus de commandes ?
+=> le type de client (segment) qui passe le plus de commande est le Gouvernement (41.81%)
+
+5. Y a-t-il des différences selon les pays ?
+=> il y'a une différence minime, présque la totalité des pays présenter dans le graphe montre une dépense intérésante commis par le segment Gouvernement par rapport a d'autre segments.
+
+
+
